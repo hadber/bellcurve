@@ -1,7 +1,7 @@
 What is this?
 ------------------------------------
 This is a simple python script to simulate a Galton board and generate a normal (Gaussian) distribution.
-You can find more about the Galton board on [Wikipedia](https://en.wikipedia.org/wiki/Bean_machine) and by watching this excellent [Vsauce video](https://www.youtube.com/watch?v=UCmPmkHqHXk)
+You can find more about the Galton board on [Wikipedia](https://en.wikipedia.org/wiki/Bean_machine) or by watching this excellent [Vsauce video](https://www.youtube.com/watch?v=UCmPmkHqHXk).
 
 How does it work?
 ------------------------------------
